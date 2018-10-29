@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://xmlns.com/foaf/0.1/">
+  <j.0:Person rdf:about="http://somewhere.com/JuanPerez">
+    <j.0:knows>http://somewhere.com/PedroPerez</j.0:knows>
+    <j.0:age>20</j.0:age>
+    <j.0:lastName>Perez</j.0:lastName>
+    <j.0:firstName>Juan</j.0:firstName>
+  </j.0:Person>
+  <j.0:Person rdf:about="http://somewhere.com/PedroPerez">
+    <j.0:age>26</j.0:age>
+    <j.0:lastName>Perez</j.0:lastName>
+    <j.0:firstName>Pedro</j.0:firstName>
+  </j.0:Person>
+</rdf:RDF>
